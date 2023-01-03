@@ -9,7 +9,7 @@
 <p align="center">
   <br>
   <img 
-    src="https://komarev.com/ghpvc/?username=criistian14&style=for-the-badge&label=visitors&color=1C1C1C"
+    src="https://komarev.com/ghpvc/?username=SantiagoBarbosaNieto&style=for-the-badge&label=visitors&color=1C1C1C"
     alt="Visitors"
   />
 </p>
