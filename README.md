@@ -42,7 +42,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-
+<!---
 <p>
   <img
     src="https://img.shields.io/badge/Dart-1C1C1C?style=for-the-badge&logo=dart&logoColor=00FFFF"
@@ -69,6 +69,7 @@
     alt="Linux"
   />&nbsp;
 </p>
+-->
 
 <p>
   <a href="https://github.com/SantiagoBarbosaNieto">
