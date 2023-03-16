@@ -17,10 +17,10 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/todo/"  target="_blank">
+  <a href="https://github.com/SantiagoBarbosaNieto/SantiagoBarbosaNieto/blob/main/Resume.md"  target="_blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+      src="https://img.shields.io/badge/Resume-1C1C1C?style=for-the-badge&logo=ReadMe&logoColor=00FFFF"
     />
   </a>
   <a href="https://www.linkedin.com/in/todo/"  target="_blank">
