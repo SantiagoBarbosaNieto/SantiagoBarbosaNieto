@@ -28,7 +28,7 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="mailto:santibar15@hotmail.com" target="_blank">
+  <a href="mailto:santiagobarbosa.nieto@gmail.com" target="_blank">
     <img
       align="center"
       src="https://img.shields.io/badge/Mail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"
