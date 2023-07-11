@@ -17,13 +17,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/SantiagoBarbosaNieto/SantiagoBarbosaNieto/blob/main/Resume.md"  target="_blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Resume-1C1C1C?style=for-the-badge&logo=ReadMe&logoColor=00FFFF"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/santiago-barbosa-64076826a/"  target="_blank">
+  
+  <a href="https://www.linkedin.com/in/santiago-barbosa-nieto"  target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
